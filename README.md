@@ -200,35 +200,12 @@ Compares machine learning model performance using:
 - Machine learning classification
 - Data visualization
 
-## Repository Structure
-
-AI-ERM-Dashboard/
-│
-├── data/
-│   ├── raw/
-│   │   └── pcold/
-│   ├── interim/
-│   └── processed/
-│
-├── notebooks/
-│   ├── data_generation.ipynb
-│   ├── pcold_feature_engineer.ipynb
-│   ├── star_schema.ipynb
-│   └── risk_ai_model.ipynb
-│
-├── dashboard/
-│   └── AI ERM Dashboard.pbix
-│
-├── poster/
-│   └── Armaan Patel AI ERM Capstone Poster.pptx
-│
-├── report/
-│   └── Armaan Patel Capstone Project Final Report.pdf
-│
-├── README.md
-└── LICENSE
-
 ## How to Run the Project
+
+### 0. Only Dashboard
+
+For the dashboard only, it is accessible through my portfolio and requires no download here:
+https://armaanp6789.wixsite.com/armaan-patel-portfol/b-s-capstone
 
 ### 1. Clone the repository
 
