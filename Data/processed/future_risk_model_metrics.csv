@@ -1,0 +1,2 @@
+model,best_threshold,roc_auc,accuracy,precision,recall,f1_score,test_rows,positive_rate_test
+RandomForest_FutureHighLoss90D,0.32,0.7389016018306636,0.9373601789709173,0.125,0.3,0.17647058823529413,447,0.02237136465324385
